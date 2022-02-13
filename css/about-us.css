@@ -1,0 +1,11 @@
+body {
+    background-image: url("/png/arkaplann.jpg");
+    background-repeat: round;
+    color: #FFCC1D;
+    font-style: italic;
+    font-size: x-large;
+    text-align: center;
+    
+}a {
+    color: rgb(255, 0, 76);
+}
